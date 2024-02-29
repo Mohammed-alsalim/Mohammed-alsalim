@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Education
+#### Education
 
 I am Mohammed Al-salim. I am studying Web Design and Development at the Northern Alberta Institute of Technology (NAIT).
 <!--
