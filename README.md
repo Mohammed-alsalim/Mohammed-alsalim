@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## Education
+
+I am Mohammed Al-salim. I am studying Web Design and Development at the Northern Alberta Institute of Technology (NAIT).
 <!--
 **Mohammed-alsalim/Mohammed-alsalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
