@@ -2,7 +2,7 @@
 
 #### Education
 
-I am Mohammed Al-salim. I am studied Web Design and Development at the Northern Alberta Institute of Technology (NAIT).
+Hi, I'm Mohammed Al-salim a web designer / developer from Edmonton. I’m passionate about all things web development, from creating sleek, user-friendly websites to exploring the latest trends in technology.
 <!--
 **Mohammed-alsalim/Mohammed-alsalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
